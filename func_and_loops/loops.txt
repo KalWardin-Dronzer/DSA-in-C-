@@ -1,0 +1,15 @@
+white (condition) {
+// code
+}
+
+for (init-statement; condition; final-expression) {
+// code
+}
+// starting point, stopping point, updation
+
+do {
+// code
+}white (condition);
+
+// break 
+//continue
